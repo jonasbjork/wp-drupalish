@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Drupalish
-Description: Custom plugin for login, logout and registration
+Description: Functions for WordPress to make it more "drupalish" aka smart
 Version: 0.1
 Author: Jonas Björk
 */
